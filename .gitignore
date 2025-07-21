@@ -1,0 +1,1 @@
+-e "target/\n.idea/\n*.iml\n*.log\n.DS_Store\n.env\n*.class\n*.tmp\n/src/main/resources/application.properties" 
